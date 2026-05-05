@@ -1,12 +1,26 @@
 {
-  "citations": 785,
-  "citationsSince": 779,
+  "citations": 792,
+  "citationsSince": 786,
   "hIndex": 16,
   "hIndexSince": 16,
   "i10Index": 21,
   "i10IndexSince": 21,
-  "citeYears": [2021, 2022, 2023, 2024, 2025, 2026],
-  "citeVals":  [4, 1, 27, 141, 406, 200],
-  "updatedAt": "2026-05-05T00:00:00+00:00",
-  "source": "manual-seed"
+  "citeYears": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "citeVals": [
+    4,
+    1,
+    27,
+    141,
+    406,
+    205
+  ],
+  "updatedAt": "2026-05-05T11:18:26.229813+00:00",
+  "source": "scholarly"
 }
