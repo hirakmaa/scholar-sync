@@ -1,8 +1,8 @@
 {
-  "citations": 940,
-  "citationsSince": 934,
-  "hIndex": 16,
-  "hIndexSince": 16,
+  "citations": 967,
+  "citationsSince": 961,
+  "hIndex": 17,
+  "hIndexSince": 17,
   "i10Index": 24,
   "i10IndexSince": 24,
   "citeYears": [
@@ -17,10 +17,10 @@
     4,
     1,
     27,
-    142,
-    414,
-    342
+    157,
+    425,
+    343
   ],
-  "updatedAt": "2026-07-26T08:39:34.851198+00:00",
+  "updatedAt": "2026-07-27T04:03:25.663539+00:00",
   "source": "scholarly"
 }
