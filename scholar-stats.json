@@ -1,6 +1,6 @@
 {
-  "citations": 967,
-  "citationsSince": 961,
+  "citations": 961,
+  "citationsSince": 955,
   "hIndex": 17,
   "hIndexSince": 17,
   "i10Index": 24,
@@ -16,11 +16,11 @@
   "citeVals": [
     4,
     1,
-    27,
+    26,
     157,
-    425,
-    343
+    409,
+    354
   ],
-  "updatedAt": "2026-08-02T08:37:19.977453+00:00",
+  "updatedAt": "2026-08-04T14:40:15.253053+00:00",
   "source": "scholarly"
 }
