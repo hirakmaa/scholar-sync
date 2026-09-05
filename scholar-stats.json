@@ -1,10 +1,10 @@
 {
-  "citations": 1004,
-  "citationsSince": 998,
+  "citations": 1007,
+  "citationsSince": 1001,
   "hIndex": 17,
   "hIndexSince": 17,
-  "i10Index": 24,
-  "i10IndexSince": 24,
+  "i10Index": 25,
+  "i10IndexSince": 25,
   "citeYears": [
     2021,
     2022,
@@ -19,8 +19,8 @@
     26,
     157,
     410,
-    394
+    397
   ],
-  "updatedAt": "2026-09-04T20:47:05.125858+00:00",
+  "updatedAt": "2026-09-05T15:16:30.080315+00:00",
   "source": "scholarly"
 }
